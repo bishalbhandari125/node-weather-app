@@ -24,7 +24,7 @@ app.get('',(req,res)=>{
     res.render('index',{
         title: 'Wheather App',
         age: 20,
-        name: 'BBZ',
+        name: 'BBZ', 
     })
 })
 
